@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DevOps best practices and tools
 - 📫 How to reach me: email: jasonshuyinta@gmail.com
 - Visit my e-learning platform Youtorial: https://www.youtorial.org/
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonShuyinta)](https://github.com/JasonShuyinta/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonShuyinta)](https://github.com/JasonShuyinta/github-readme-stats)
 
 <!---
 JasonShuyinta/JasonShuyinta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
