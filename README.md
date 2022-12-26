@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @JasonShuyinta, I am a Software Developer, graduated from the University of Bologna
-- 👀 I’m interested in Web Development, Cloud and DevOps
-- 🌱 I’m currently learning DevOps best practices and tools
+- 👋 Hi, I’m @JasonShuyinta, I am a Software Developer currently living in Bologna, Italy 🇮🇹
+- 🎓 Graduated from the University of Bologna
+- 👀 I'm all about Web Development, Cloud and DevOps
+- 🥇 Certified 1x AWS, 1x GCP ☁️
 - 📫 How to reach me: email: jasonshuyinta@gmail.com
 - Visit my e-learning platform Youtorial: https://www.youtorial.org/
 
