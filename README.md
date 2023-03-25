@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonshuyinta" alt="jasonshuyinta" /></a> </p>
 
-- 🌱 I’m currently learning **GraphDB and DevOps**
-
 - 👨‍💻 All of my projects are available at [https://jasonshuyinta.github.io/profile/](https://jasonshuyinta.github.io/profile/)
 
 - 📫 How to reach me **jasonshuyinta@gmail.com**
