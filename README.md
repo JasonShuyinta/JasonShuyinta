@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">I'm all about Web Development, Cloud and DevOps</h3>
+<h3 align="center">I'm all about Web Development,Cloud and DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonshuyinta&label=Profile%20views&color=0e75b6&style=flat" alt="jasonshuyinta" /> </p>
 
