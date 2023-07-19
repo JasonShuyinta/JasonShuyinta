@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonshuyinta&label=Profile%20views&color=0e75b6&style=flat" alt="jasonshuyinta" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes, Docker, Helm, VMs**
+- 🌱 I’m currently learning **Kubernetes, Docker, Helm, Cloud and Microservices**
 
 - 📫 How to reach me **jasonshuyinta@gmail.com**
 
