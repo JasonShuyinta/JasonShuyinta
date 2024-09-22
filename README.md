@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="150" src="![WhatsApp Image 2024-09-16 at 10 10 35](https://github.com/user-attachments/assets/3801fde0-1ea3-4fe7-abdb-b030b553b647)"  />
-</div>
-
-
 ###
 
 <div align="center">
@@ -62,8 +57,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
